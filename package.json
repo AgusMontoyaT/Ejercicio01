@@ -1,8 +1,10 @@
 {
   "name": "ionic-app-base",
-  "version": "0.0.0",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "version": "1.0.0",
+  "author": {
+    "name": "Agus Montoya Tortosa",
+    "url": "https://github.com/AgusMontoyaT/Ejercicio01"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

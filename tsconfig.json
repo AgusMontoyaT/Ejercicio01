@@ -18,7 +18,7 @@
     "importHelpers": true,
     "target": "es2022",
     "module": "es2020",
-    "lib": ["es2020", "dom"],
+    "lib": ["es2020", "dom"], // cambiada a 2020 o superior, la 2018 me va maaaal
     "useDefineForClassFields": false
   },
   "angularCompilerOptions": {
